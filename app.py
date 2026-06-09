@@ -7,6 +7,7 @@ import json
 app = Flask(__name__)
 
 # HTML template for the frontend
+
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
